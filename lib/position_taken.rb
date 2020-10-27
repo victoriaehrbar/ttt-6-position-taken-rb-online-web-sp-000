@@ -1,2 +1,2 @@
-def position_taken
-end 
+def position_taken(" ")
+end
